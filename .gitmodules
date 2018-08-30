@@ -1,0 +1,4 @@
+[submodule "students/mjstest"]
+	path = students/mjstest
+	url = https://github.com/mjsgibb/mjstest.git
+	branch = master
