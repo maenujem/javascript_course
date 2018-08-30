@@ -1,4 +1,4 @@
-# teachtest
+# javascript_course
+JavaScript ES6 course with toolchain using NodeJS/npm...
 
-initial
-some changes
+content to be provided soon

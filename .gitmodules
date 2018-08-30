@@ -2,3 +2,7 @@
 	path = students/mjstest
 	url = https://github.com/mjsgibb/mjstest.git
 	branch = master
+[submodule "students/emiltest"]
+	path = students/emiltest
+	url = https://github.com/Aqu1nt/aquint-todo-app.git
+	branch = master
