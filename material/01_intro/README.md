@@ -24,11 +24,10 @@ Status: *draft / open / work in progress / done (Datum: )
 
 | Ich kann.. | Lieferobjekt | Bemerkungen |
 | --- | --- | --- |
-| einen kuchen backen | quittung [L01] | frische Eier nehmen |
+| einen feinen Kuchen backen | quittung [L01] | frische Eier nehmen |
 
 # Arbeitsnachweise / Lieferobjekte
-[L01]: http://xyz.com/kuchen.bin
-
+Mein Kuchen [L01]: http://xyz.com/kuchen.bin
 
 # Reflexion
 ## was habe ich gelernt?

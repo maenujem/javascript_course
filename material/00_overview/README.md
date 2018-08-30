@@ -43,5 +43,5 @@ in Linux-VM (smartlearn oder gemäss Tutorial) oder auf persönlichem Laptop:
 | 36 | Einstieg: Infrastruktur & Organisation | [Tutorial Infrastruktur](JS_webdev-tooling_v01.pdf) | basic | 6.9.18 | open / *work in progress / done |
 | 37 | Intro & DOM & Events | [Themenübersicht](../01_intro/README.md) | basic| 13.9.18 | *open / work in progress / done |
 
-# My planning
+# Meine Planung
 [Meine Planung](planning_todo.md) (optional)
