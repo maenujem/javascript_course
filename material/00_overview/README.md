@@ -1,4 +1,4 @@
-gibbJS  Modulleitfaden "JavaScript ES6+"
+Modulleitfaden & Semesterplan "JavaScript ES6+"
 ========================
 
 # Ziele
@@ -22,25 +22,26 @@ mindmap
 
 # Ressourcen - Ablagestruktur
 ## GIT
-* Teacher GIT-Repo: enthält Modulleitfaden, Themenmaterialien/Exercises
-* persönlichers GIT-Repo: enthält aktualisierte Kopie von Teacher GIT plus bearbeiteten Modulleitfaden (Lernmap), Themenseite (Resultateliste) und Resultate 
+* Teacher GIT-Repo (dieses hier): enthält Modulleitfaden, Themenmaterialien/Exercises
+* persönlichers GIT-Repo (dein eigenes): enthält aktualisierte Kopie von Teacher GIT plus bearbeiteten Modulleitfaden (Lernmap), Themenseite (Resultateliste) und Resultate 
 
 ## Klassenshare
 * enthält Medien für klassenInternen Gebrauch
 
 ## Infrastruktur
-in Linux-VM oder auf persönlichem Laptop:
-* Chrome-Browser
-* IDE (zB. WebStorm oder IntelliJ)
+in Linux-VM (smartlearn oder gemäss Tutorial) oder auf persönlichem Laptop:
 * GIT Repos
+* Chrome-Browser
+* IDE (zB. WebStorm oder IntelliJ [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/))
 * NodeJS/npm (später)
-* Zeal Docs
+* Zeal Docs [https://zealdocs.org/download.html](https://zealdocs.org/download.html)
 
 # Semesterplan & Lernmap (Fortschrittsübersicht)
 
 | KW | Themen | Unterlagen | Niveau | Plan Beginn | Status |
 | --- | --- | --- | --- | --- | --- |
-| 33 | tt | link | basic / medium | 1.1.18 | open / work in progress / done |
+| 36 | Einstieg: Infrastruktur & Organisation | [Tutorial Infrastruktur](JS_webdev-tooling_v01.pdf) | basic | 6.9.18 | open / *work in progress / done |
+| 37 | Intro & DOM & Events | [Themenübersicht](../01_intro/README.md) | basic| 13.9.18 | *open / work in progress / done |
 
 # My planning
-todo-list
+[Meine Planung](planning_todo.md) (optional)

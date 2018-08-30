@@ -1,4 +1,4 @@
-gibbJS Thema xy
+Thema xy
 ========================
 Status: *draft / open / work in progress / done (Datum: )
 
@@ -18,7 +18,7 @@ Status: *draft / open / work in progress / done (Datum: )
 ## Erwartete Ergebnisse
 
 # Checkfragen
-link
+[Die Fragen](checkme.md)
 
 # Kann-Liste (Handlungs-Kompetenzen)
 
@@ -27,8 +27,7 @@ link
 | einen kuchen backen | quittung [L01] | frische Eier nehmen |
 
 # Arbeitsnachweise / Lieferobjekte
-
- [L01]: http://xyz.com/kuchen.bin
+[L01]: http://xyz.com/kuchen.bin
 
 
 # Reflexion

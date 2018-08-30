@@ -1,9 +1,9 @@
-gibbJS Checkfragen
+JS Checkfragen
 ========================
 
 > frage eins worum geht
 > es hier?
 
 - A) ums wetter
-- B) ums essen
+- B) um kuchen
 - C) ums web-coden
