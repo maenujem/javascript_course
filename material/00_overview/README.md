@@ -5,10 +5,10 @@ Modulleitfaden & Semesterplan "JavaScript ES6+"
 Grundlagen zu Nutzung und Verständnis eines JS-Frameworks
 
 # Voraussetzungen
-* Ük101, ÜK307, (M133)
+* ÜK101, ÜK307, (M133)
 
 # Inhaltsübersicht
-mindmap
+TODO: mindmap
 
 # Unterrichtsprinzipien
 * möglichst viel selbständig erarbeiten - einzel oder im zweier-Team
@@ -40,8 +40,8 @@ in Linux-VM (smartlearn oder gemäss Tutorial) oder auf persönlichem Laptop:
 
 | KW | Themen | Unterlagen | Niveau | Plan Beginn | Status |
 | --- | --- | --- | --- | --- | --- |
-| 36 | Einstieg: Infrastruktur & Organisation | [Tutorial Infrastruktur](JS_webdev-tooling_v01.pdf) | basic | 6.9.18 | open / *work in progress / done |
-| 37 | Intro & DOM & Events | [Themenübersicht](../01_intro/README.md) | basic| 13.9.18 | *open / work in progress / done |
+| 36 | Einstieg: Infrastruktur & Organisation | [Themenübersicht](../01_infrastructure/README.md) | basic | 6.9.18 | open / *work in progress / done |
+| 37 | Intro & DOM & Events | [Themenübersicht](../02_intro/README.md) | basic| 13.9.18 | *open / work in progress / done |
 
 # Meine Planung
 [Meine Planung](planning_todo.md) (optional)
