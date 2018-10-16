@@ -1,6 +1,8 @@
 Infrastructure
 ========================
-Status: *draft / open / work in progress / done (Datum: )
+* Status: *draft / open / work in progress / done (Datum: )
+* Estimated time needed: 3h
+* Actual time needed:
 
 # Ziele
 * IDE ist eingerichtet und dessen Webserver getestet
@@ -11,7 +13,8 @@ Status: *draft / open / work in progress / done (Datum: )
 ## Einstiegsfrage
 
 # Ressourcen
-[Tutorial Infrastruktur](JS_webdev-tooling_v01.pdf) - 6.2 (1b / NodeJS) kann später gemacht werden
+*[Tutorial Infrastruktur](JS_webdev-tooling_v01.pdf) - 6.2 (1b / NodeJS) kann später gemacht werden
+*[IntelliJ Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 # Exercises
 siehe Tutorial
@@ -29,7 +32,7 @@ siehe Tutorial
 | Erklären wie Versionierung mit GIT funktioniert |  |  |
 | IDE nutzbringend einsetzen (Shortcuts/Cheatsheet) |  |  |
 | Einfache Website mit Javascript erstellen und testen |  |  |
-| Die Browsertools, insb. den Inspector und den Debugger und die Console nutzen |  |  |
+| Die Browsertools, insb. den ElementsInspector und den Debugger/Sources und die Console (log/warn/error, dir, table, time) nutzen |  |  |
 
 # Arbeitsnachweise / Lieferobjekte
 GIT repo (remote) [L01]: http://xyz.com/...

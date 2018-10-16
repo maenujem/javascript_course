@@ -1,4 +1,4 @@
 # javascript_course
 JavaScript ES6 course with toolchain using NodeJS/npm...
 
-[Modulleitfaden und Semesterplan](material/00_overview/README.md)
+[Kursleitfaden und Semesterplan](material/00_overview/README.md)

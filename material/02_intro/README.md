@@ -1,6 +1,8 @@
 Thema xy
 ========================
-Status: *draft / open / work in progress / done (Datum: )
+* Status: *draft / open / work in progress / done (Datum: )
+* Estimated time needed: tbd
+* Actual time needed:
 
 # Ziele
 

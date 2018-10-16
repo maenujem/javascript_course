@@ -1,4 +1,4 @@
-Modulleitfaden & Semesterplan "JavaScript ES6+"
+Kursleitfaden & Semesterplan "JavaScript ES6+"
 ========================
 
 # Ziele
@@ -22,6 +22,7 @@ TODO: mindmap
 
 # Ressourcen - Ablagestruktur
 ## GIT
+* In diesem Kurs verwenden wir bewusst native JavaScript und keine Frameworks oder Libraries (jQuery, Lodash, Underscore..)
 * Teacher GIT-Repo (dieses hier): enthält Modulleitfaden, Themenmaterialien/Exercises
 * persönlichers GIT-Repo (dein eigenes): enthält aktualisierte Kopie von Teacher GIT plus bearbeiteten Modulleitfaden (Lernmap), Themenseite (Resultateliste) und Resultate 
 
@@ -38,10 +39,10 @@ in Linux-VM (smartlearn oder gemäss Tutorial) oder auf persönlichem Laptop:
 
 # Semesterplan & Lernmap (Fortschrittsübersicht)
 
-| KW | Themen | Unterlagen | Niveau | Plan Beginn | Status |
-| --- | --- | --- | --- | --- | --- |
-| 36 | Einstieg: Infrastruktur & Organisation | [Themenübersicht](../01_infrastructure/README.md) | basic | 6.9.18 | open / *work in progress / done |
-| 37 | Intro & DOM & Events | [Themenübersicht](../02_intro/README.md) | basic| 13.9.18 | *open / work in progress / done |
+| KW | Themen | Unterlagen | Niveau | Aufwand |Plan Beginn | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| 36 | Einstieg: Infrastruktur & Organisation | [Themenübersicht](../01_infrastructure/README.md) | basic | 3h | 6.9.18 | open / *work in progress / done |
+| 37 | Intro & DOM & Events | [Themenübersicht](../02_intro/README.md) | basic| tbd | 13.9.18 | *open / work in progress / done |
 
 # Meine Planung
 [Meine Planung](planning_todo.md) (optional)
