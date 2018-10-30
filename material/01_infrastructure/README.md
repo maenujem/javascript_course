@@ -13,8 +13,8 @@ Infrastructure
 ## Einstiegsfrage
 
 # Ressourcen
-*[Tutorial Infrastruktur](JS_webdev-tooling_v01.pdf) - 6.2 (1b / NodeJS) kann später gemacht werden
-*[IntelliJ Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+* [Tutorial Infrastruktur](JS_webdev-tooling_v01.pdf) - 6.2 (1b / NodeJS) kann später gemacht werden
+* [IntelliJ Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 # Exercises
 siehe Tutorial
