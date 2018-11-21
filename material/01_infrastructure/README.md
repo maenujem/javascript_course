@@ -11,13 +11,13 @@ Start: Infrastructure
 
 # Themeneinstieg
 ## Einstiegsfrage
-
+Wie entwickle ich mit JavaScript: IDE, GIT, NodeJS & Buildprozess
 # Ressourcen
-* [Tutorial Infrastruktur](JS_webdev-tooling_v01.pdf) - 6.2 (1b / NodeJS) kann später gemacht werden
+* [Tutorial Infrastruktur](JS_webdev-tooling_v01.pdf)
 * [IntelliJ Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 # Exercises
-siehe Tutorial
+siehe Tutorial: löse 1 bis 6.1; 6.2 (1b / NodeJS) kann später gemacht werden
 
 # Checkfragen
 [Die Fragen](checkme.md)

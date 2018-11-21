@@ -1,4 +1,4 @@
-Thema xy
+Set & Map
 ========================
 * Status: *draft / open / work in progress / done (Datum: )
 * Estimated time needed: tbd
@@ -26,10 +26,8 @@ Thema xy
 
 | Ich kann.. | Lieferobjekt | Bemerkungen |
 | --- | --- | --- |
-| einen feinen Kuchen backen | quittung [L01] | frische Eier nehmen |
 
 # Arbeitsnachweise / Lieferobjekte
-Mein Kuchen [L01]: http://xyz.com/kuchen.bin
 
 # Reflexion
 ## was habe ich gelernt?
