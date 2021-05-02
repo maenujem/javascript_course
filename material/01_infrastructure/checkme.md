@@ -5,4 +5,4 @@ JS Checkfragen
 
 - A) ums wetter
 - B) um kuchen
-- C) ums web-coden
+- C) ums web-coden `if(sunny){feelGood(me)}`
