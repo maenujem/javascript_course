@@ -15,7 +15,7 @@ Grundlagen zu Nutzung und Verständnis eines JS-Frameworks
 * Austausch im Plenum (Lösungswege)
 * Themeninput oder Themenworkshop
 * Themenressourcen, Exercises, Checkfragen und Begleitprojekt - Dinge in Einzelarbeit eher ausserhalb der Kurslektion erarbeiten
-* Fortschrittsübersicht und Arbeitsergebnisse als Portfolio - gelegentliche Kurzreviews
+* Fortschrittsübersicht und Arbeitsergebnisse als Portfolio - gelegentliche Kurzreviews durch LP oder gegenseitiger Resultatevergleich der LL (voneinander Lernen, analog den Kata-Sites)
 * Fragen als Issues in Teacher GIT
 * Vorgehensschritte: Informieren, Planen, Entscheiden, Realisieren, Kontrollieren, Auswerten -> Pendenzenliste (optional)
 * keine Prüfungen - Zertifikat mit Inhaltsübersicht und ggf. besuch/erfolgreich/ausgezeichnet
@@ -24,7 +24,7 @@ Grundlagen zu Nutzung und Verständnis eines JS-Frameworks
 ## GIT
 * In diesem Kurs verwenden wir bewusst native JavaScript und keine Frameworks oder Libraries (jQuery, Lodash, Underscore..)
 * Teacher GIT-Repo (dieses hier): enthält Modulleitfaden, Themenmaterialien/Exercises
-* persönlichers GIT-Repo (dein eigenes): enthält aktualisierte Kopie von Teacher GIT plus bearbeiteten Modulleitfaden (Lernmap), Themenseite (Resultateliste) und Resultate 
+* persönliches GIT-Repo (dein eigenes): enthält aktualisierte Kopie von Teacher GIT plus bearbeiteten Modulleitfaden (Lernmap), Themenseite (Resultateliste) und Resultate. Dieses Repo kann als Submodule in den students/-Ordner eingebunden werden, damit andere LL und die LP einfacher darauf zugreifen können.
 
 ## Klassenshare
 * enthält Medien für klassenInternen Gebrauch
